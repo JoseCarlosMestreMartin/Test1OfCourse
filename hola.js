@@ -1,3 +1,3 @@
 //buen dia
 //good morning
-var = 23;
+var x = 23;
